@@ -1,0 +1,60 @@
+Gusano
+
+día 1 metro 0
+3m -> noche 1m
+
+día 2 metro1
+4m -> noche 2m
+
+día 3 metro2
+5m -> noche 3m
+
+día 4 metro 3
+6m -> moche 4m
+
+día 5 metro 4
+7m -> noche 5m
+
+día 6 metro 5
+8m -> noche 6m
+
+día 7 metro 6
+9m -> noche 7m
+
+día 8 metro 7
+10, el gusanito sale, entonces no se devuelve
+
+Al finalizar el día recorre solo un metro, en el día 8 ya salió
+
+CALIFICACIONES:
+
+*** Ejecución Iniciada. ***
+Ingrese la nota del estudiante 1
+> 5.0
+Ingrese la nota del estudiante 2
+> 3.8
+Ingrese la nota del estudiante 3
+> 1.6
+Ingrese la nota del estudiante 4
+> 3.5
+Ingrese la nota del estudiante 5
+> 4.2
+Promedio: 3.62
+Estudiantes aprobados: 4
+Nota mas alta: 5
+Nota mas baja: 1.6
+Si, alguien perdio
+*** Ejecución Finalizada. ***
+
+
+PIRAMIDE DE ASTERISCOS:
+*** Ejecución Iniciada. ***
+Ingrese la altura de la piramide:
+> 6
+     *
+    ***
+   *****
+  *******
+ *********
+  ***********
+*** Ejecución Finalizada. ***
